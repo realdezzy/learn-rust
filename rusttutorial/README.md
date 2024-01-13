@@ -1,0 +1,1 @@
+## This directory contains coding exercises from Rust by Example
